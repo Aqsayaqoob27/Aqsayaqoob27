@@ -1,5 +1,7 @@
 # Hi there! 👋 Aqsa yaqoob AKA MulticoderX, a Frontend developer and Enthusiast 📊
 
+<img src="https://media.licdn.com/dms/image/D4D16AQFYiKV-pIohFg/profile-displaybackgroundimage-shrink_350_1400/0/1711990240532?e=1717632000&v=beta&t=26dOeN6Q7NdJY8eayDb3-gpTTxKPTxrVSaxozq1bIc4">
+
 Welcome to my GitHub profile! I'm passionate about leveraging data to gain insights and solve real-world problems. Here, you'll find my projects, contributions, and a bit about who I am.
 <br>
 <br>
@@ -30,11 +32,11 @@ I'm actively learning and working on various projects to enhance my skills.
 
 ## Blog
 
-I occasionally write about my data science experiences and insights. Find my latest articles on [LinkedIn](https://www.linkedin.com/posts/sathish-vanga_pythonprogramming-dataanalysis-datavisualization-activity-7136021119962152960-m0Bi?utm_source=share&utm_medium=member_desktop).
+I occasionally write about my data science experiences and insights. Find my latest articles on [LinkedIn](https://www.linkedin.com/in/miss-aqsa-yaqoob-7693702b7/)).
 
 ## 📫 How to Reach Me
 
-- LinkedIn: www.linkedin.com/in/sathish-vanga
+- LinkedIn: https://www.linkedin.com/in/miss-aqsa-yaqoob
 - GitHub: https://github.com/Aqsayaqoob27
 - Email: missaqsayaqoob@gmail.com
 

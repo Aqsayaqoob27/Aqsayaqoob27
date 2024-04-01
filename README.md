@@ -35,8 +35,8 @@ I occasionally write about my data science experiences and insights. Find my lat
 ## 📫 How to Reach Me
 
 - LinkedIn: www.linkedin.com/in/sathish-vanga
-- Twitter: https://twitter.com/sathish-vanga
-- Email: sathishv700@gmail.com
+- GitHub: https://github.com/Aqsayaqoob27
+- Email: missaqsayaqoob@gmail.com
 
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.

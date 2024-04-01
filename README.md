@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to gain insig
 
 - 📫 How to reach me **https://www.youtube.com/channel/UCx8Rrq-PkwpRwI6VB7i2Z4Q**
 
-## 📫 How to Reach Me
+## 🤝 Contact Me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

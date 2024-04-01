@@ -29,20 +29,28 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to gain insig
 
 ## Learning Journey
 
-I'm actively learning and working on various projects to enhance my skills.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsayaqoob27&label=Profile%20views&color=0e75b6&style=flat" alt="aqsayaqoob27" /> </p>
+
+- 🔭 I’m currently working on **JavaScript and Python**
+
+- 🌱 I’m currently learning **JavaScript frameworks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Aqsayaqoob27](https://github.com/Aqsayaqoob27)
 
 ## Blog
 
-I occasionally write about my data science experiences and insights. Find my latest articles on [LinkedIn](https://www.linkedin.com/in/miss-aqsa-yaqoob-7693702b7/)).
+- 📝 I regularly write post on [https://www.linkedin.com/in/miss-aqsa-yaqoob-7693702b7/](https://www.linkedin.com/in/miss-aqsa-yaqoob-7693702b7/)
+
+- 📫 How to reach me **https://www.youtube.com/channel/UCx8Rrq-PkwpRwI6VB7i2Z4Q**
 
 ## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/miss-aqsa-yaqoob
-- GitHub: https://github.com/Aqsayaqoob27
-- Email: missaqsayaqoob@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/miss-aqsa-yaqoob-7693702b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miss-aqsa-yaqoob-7693702b7/" height="30" width="40" /></a>
+</p>
 
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 Happy coding and exploring the data-driven world! 🚀
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aqsa%20yaqoob&theme=dark" alt="GitHub Streak" /></a>

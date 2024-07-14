@@ -1,4 +1,4 @@
-# Hi there! 👋 Aqsa yaqoob AKA MulticoderX, a Frontend developer and Enthusiast 📊
+# Hi there! 👋 Aqsa yaqoob AKA MulticoderX, a Frontend developer and a YouTuber📊
 
 <img src="https://media.licdn.com/dms/image/D4D16AQFYiKV-pIohFg/profile-displaybackgroundimage-shrink_350_1400/0/1711990240532?e=1717632000&v=beta&t=26dOeN6Q7NdJY8eayDb3-gpTTxKPTxrVSaxozq1bIc4">
 
